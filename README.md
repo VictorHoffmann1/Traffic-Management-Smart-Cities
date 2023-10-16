@@ -1,7 +1,7 @@
 # Traffic Management For Smart Cities
 
 <p align="center">
-<img src=https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities/assets/107257366/d3250145-4b64-4d60-b8a8-f78d2df28385 alt="Traffic Analysis" />
+<img src=https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities/assets/107257366/d3250145-4b64-4d60-b8a8-f78d2df28385 alt="Traffic Analysis" width="200"/>
 </p>
 
 ## Description
@@ -12,7 +12,7 @@ We'll learn how to use YoloV8 (Object Detection) and ByteTrack (Tracking) in ord
 
 ## In this repository you'll find:
 
-* A data folder, which includes the input video, the output video from the model and the pretrained weights for YOLO.
+* A shell script, which allows you to download the input video and the pretrained weights for YOLO.
 * A python script that will generate the output video
 * A requirements text file that lists all the different versions from installed libraries.
 
