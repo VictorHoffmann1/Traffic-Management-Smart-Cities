@@ -1,7 +1,7 @@
 # Traffic Management For Smart Cities
 
 <p align="center">
-![traffic_analysis_output](https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities/assets/107257366/d3250145-4b64-4d60-b8a8-f78d2df28385)
+<img src=https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities/assets/107257366/d3250145-4b64-4d60-b8a8-f78d2df28385 alt="Traffic Analysis" />
 </p>
 
 ## Description
